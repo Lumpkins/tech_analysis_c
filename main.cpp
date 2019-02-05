@@ -261,6 +261,7 @@ PyObject* find_spans_one_above_other(PyObject* self, PyObject* args)
 
 	PyObject *pairs ;
 		
+
 	pairs=PyList_New(0);
 
 	PyObject * item;
